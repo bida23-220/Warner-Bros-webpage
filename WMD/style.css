@@ -1,1 +1,101 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgba(128, 128, 128, 0.979);
+}
 
+
+  header {
+    height: 80px;
+    background-color: black;
+  
+   }
+
+  .row{
+
+
+ }
+  
+  .logo{
+    float: left;
+    width: 30px;
+    height: 30px;
+  }
+  .column1{
+    float: left;
+    width: 16.2%;
+    display: inline;
+    padding:50px;
+  }
+
+  .column{
+    width: 16.2%;
+    display: inline;
+    padding: 15px;
+
+
+  }
+
+ .column img{
+    height: 220px;
+    padding-inline: 15px;
+  
+ }
+  .search{
+    margin-left: 100px;
+  }
+
+  .title{
+    float: right;
+    margin-right: 345px;
+    margin-top: 200px;
+  }
+
+  
+
+  .topnav ul{
+    color:rgba(0, 174, 255, 0.541) ;
+    background-color: black;
+    font-size: 35px;
+    padding: 5px;
+    padding-left: 3.5%;
+  }
+  .topnav li{
+    display: inline;
+    padding-inline: 10px;
+    background-color: black;
+
+  }
+
+  .topnav a{
+    color:rgba(0, 174, 255, 0.541) ;
+    text-decoration: underline;
+    background-color: black;
+  }
+
+.logofooter{
+  background-color: black;
+}
+
+.logo footer{
+  padding-left: 10px;
+  margin-top: 100px;
+}
+
+.footer{
+  background-color: black;
+  width: 100%;
+  margin-top: 40px;
+  height: 100px;
+  border-top: 500px;
+}
+.column2{
+  width: 20%;
+    display: inline;
+    padding: 15px;
+
+
+}
+.rating{
+  display: block;
+}
